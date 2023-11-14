@@ -1,4 +1,11 @@
+# from tkinter import *
+# root=Tk()
+
+# # E1=Entry(root).pack()
+
+
+
 print(1234)
-print(1234)
-print(1234)
-print("che taghiri")
+
+
+# root.mainloop()
